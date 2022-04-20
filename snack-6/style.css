@@ -1,0 +1,12 @@
+.gray, .green{
+    width: fit-content;
+    padding: 1rem;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.green {
+    background-color: green;
+}
